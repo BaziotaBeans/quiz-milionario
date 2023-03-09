@@ -80,15 +80,15 @@ http://localhost:3000/
 
 <br>
 
-<h2>👩‍💻 Autora: </h2>
-<p>Feito com ❤️ por Larissa Oliveira 
+<h2>👩‍💻 Autor: </h2>
+<p>Feito com ❤️ por Fábio Baziota 
 <br><br>
 👋 Entre em contato!
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laoliveir/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fábio-baziota-57b979174/) 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laoliveir97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiobaziota@gmail.com)
 
 <br><br>
 
